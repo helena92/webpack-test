@@ -1,1 +1,1 @@
-console.log("Webpack....wioo");
+console.log('Webpack....wioo');
